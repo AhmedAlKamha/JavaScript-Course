@@ -64,7 +64,7 @@ p:hover {
 }
 
 a {
-    color: #3182ce; /* Teal blue link */
+    color: #ffffce; /* Teal blue link */
     cursor: pointer;
     text-decoration: underline;
 }
@@ -264,7 +264,7 @@ footer {
     width: 50%;
     padding: 1.6%;
     height: 450px;
-    background-color: #edf2f7;
+    background-color: #fff2f7;
 }
 
 .Column_2 {
@@ -272,8 +272,8 @@ footer {
     width: 50%;
     padding: 1.6%;
     height: 450px;
-    background-color: #2d3748;
-    color: #f7fafc;
+    background-color: #ffff48;
+    color: #fffafc;
 }
 
 .Row:after {
@@ -289,7 +289,7 @@ footer {
     right: 1.75vw;
     width: 25vw;
     background-color: #edf2f7;
-    color: #1a202c;
+    color: #1f202c;
     border: solid #1a202c;
     cursor: pointer;
     animation: movePopup 5s;
